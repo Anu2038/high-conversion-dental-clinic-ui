@@ -9,7 +9,7 @@ The goal was to create a clean, modern, and mobile-first interface that builds t
 
 Objectives
 
-Improve clarity of value proposition
+Improve clarity of the value proposition
 
 Strengthen call-to-action hierarchy
 
